@@ -56,17 +56,17 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 </tr>
 <tr>
   <td>HW5</td>
-  <td></td>
+  <td>Out in Collab</td>
   <td>W12</td>
   <td>W14</td>
-  <td></td>
+  <td>Naive Bayes to implement</td>
 </tr>
 <tr>
   <td>HW6</td>
-  <td></td>
+  <td>Out in Collab</td>
   <td>W14</td>
   <td>W16</td>
-  <td></td>
+  <td>k-Means and GMM to implement</td>
 </tr>
 </table>
 
@@ -95,7 +95,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 | Q9   | [URL](https://forms.gle/Jf7vuhpsx1w5rNdx9)  |
 | Q10   | [URL](https://forms.gle/qFzwDczFUoqWMeDe6)  |
 | Q11   | [URL](https://forms.gle/88D7VHnEQfE1hsWc8)  |
-| Q12   |  |
+| Q12   | on paper |
 
 
 
